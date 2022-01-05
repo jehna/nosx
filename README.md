@@ -15,7 +15,7 @@ Open up your favourite editor and copy-paste this code:
 <div id="main"></div>
 <script type="module">
   import ReactDOM from "https://cdn.skypack.dev/react-dom";
-  import { Div, H1, P } from "https://cdn.skypack.dev/nosx.js";
+  import { Div, H1, P } from "https://cdn.skypack.dev/nosx";
 
   const App = () =>
     Div(
