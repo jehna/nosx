@@ -43,7 +43,7 @@ At the moment this project does not use any build tools. Just dig into the code!
 
 ### Deploying
 
-This project is at prototype phase, and it's publilshed to NPM manually.
+This project is in the prototype phase, and it's published to NPM manually.
 
 ## Features
 
@@ -55,8 +55,9 @@ A better API for React
 
 ## Contributing
 
-This project is at early prototype phase. If you'd like to contribute, please
-fork the repository and use a feature branch. Pull requests are warmly welcome.
+This project is in the early early prototype phase. If you'd like to contribute,
+please fork the repository and use a feature branch. Pull requests are warmly
+welcome.
 
 ## Licensing
 
