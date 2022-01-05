@@ -1,6 +1,6 @@
 {
   "name": "nosx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/nodx.js",
   "types": "src/nodx.d.ts",
   "module": "src/nodx.js",
@@ -8,5 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "@types/react": "^17.0.38"
-  }
+  },
+  "homepage": "https://github.com/jehna/nosx"
 }
