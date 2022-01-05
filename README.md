@@ -1,9 +1,9 @@
 # NoSX
-> Better API for React — witout JSX
+> Better API for React — without JSX
 
 Ever wondered how you could use React without any build tools, but keeping the
 code as clean as with JSX? NoSX is a sane and lightweight alternative for
-`React.createElement` that works witout any build tools.
+`React.createElement` that works without any build tools.
 
 ## Getting started
 
