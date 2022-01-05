@@ -1,0 +1,12 @@
+{
+  "name": "nosx",
+  "version": "0.1.0",
+  "main": "src/nodx.js",
+  "types": "src/nodx.d.ts",
+  "module": "src/nodx.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^17.0.38"
+  }
+}
