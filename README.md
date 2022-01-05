@@ -12,7 +12,7 @@ Open up your favourite editor and copy-paste this code:
 ```html
 <html>
 <body>
-<div id="main"></div>
+<div id="root"></div>
 <script type="module">
   import ReactDOM from "https://cdn.skypack.dev/react-dom";
   import { Div, H1, P } from "https://cdn.skypack.dev/nosx";
