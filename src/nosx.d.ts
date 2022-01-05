@@ -1,5 +1,3 @@
-type Foo = { className: number };
-
 type Element<T extends {}> = JSX.Element & Methodize<T>;
 type Methodize<T extends {}> = {
   [K in keyof T]-?: (value: T[K] | undefined) => Element<T>;
