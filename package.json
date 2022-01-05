@@ -1,6 +1,6 @@
 {
   "name": "nosx",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "src/nodx.js",
   "types": "src/nosx.d.ts",
   "module": "src/nosx.js",

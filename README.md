@@ -35,6 +35,7 @@ Open up your favourite editor and copy-paste this code:
 
 That's all you need! No build tools, no hassle.
 
+▶️ [Run example at CodeSandbox](https://codesandbox.io/s/summer-cdn-cwsoh?file=/app.js)
 
 ## Developing
 
