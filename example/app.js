@@ -1,5 +1,5 @@
 import { useState } from "https://cdn.skypack.dev/react";
-import { Button, Div, H1, H2, P, El } from "https://cdn.skypack.dev/nosx.js";
+import { Button, Div, H1, H2, P, El } from "https://cdn.skypack.dev/nosx";
 
 export default El(() => {
   const [counter, setCounter] = useState(0);
