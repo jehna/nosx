@@ -1,5 +1,7 @@
 import { useState } from "https://cdn.skypack.dev/react";
-import { Button, Div, H1, H2, P, El } from "https://cdn.skypack.dev/nosx";
+import { MakeEl , El} from "https://cdn.skypack.dev/nosx";
+const { Button, Div, H1, H2, P } = MakeEl("Button", "Div", "H1", "H2", "P" )
+
 
 export default El(() => {
   const [counter, setCounter] = useState(0);
